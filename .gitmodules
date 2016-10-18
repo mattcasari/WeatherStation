@@ -1,0 +1,3 @@
+[submodule "ITEADLIB_Arduino_WeeESP8266"]
+	path = ITEADLIB_Arduino_WeeESP8266
+	url = https://github.com/itead/ITEADLIB_Arduino_WeeESP8266.git
